@@ -1,0 +1,9 @@
+.botoncito {
+    padding: 12px 24px;
+    background-color: #202020;
+    color: rgb(250, 242, 242);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    width: 120px;
+  }
